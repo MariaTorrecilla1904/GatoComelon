@@ -1,0 +1,31 @@
+# 🐾 Juego 3D - Gato Come Comida
+
+Proyecto desarrollado en Unity donde controlas un gato que debe atrapar comida que cae del cielo.
+
+## 🎮 Gameplay
+
+* Mueve al gato de izquierda a derecha
+* Atrapa la comida antes de que caiga al suelo
+* Cada comida suma puntos
+
+## ⚙️ Características
+
+* Sistema de movimiento del jugador
+* Spawner de objetos (comida)
+* Prefabs (helado y palmeras)
+* Sistema de puntos en pantalla (UI)
+* Colisiones con recolección de objetos
+* Entorno 3D con assets
+
+## 🛠️ Tecnologías
+
+* Unity (3D)
+* C#
+
+## ▶️ Cómo ejecutar
+
+1. Abrir el proyecto en Unity Hub
+2. Cargar la escena principal
+3. Presionar **Play**
+
+
